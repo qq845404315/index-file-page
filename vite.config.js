@@ -17,7 +17,7 @@ export default defineConfig({
     https: false,
   },
   build: {
-    outDir: 'explames'
+    outDir: 'docs'
   },
   plugins: [vue()]
 })
